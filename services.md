@@ -1,12 +1,12 @@
 ---
-title: Services
+title: Projects
 layout: services
-description: Services
+description: Projects
 intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Services that grow with your business
+# Projects tackled by the team
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+A list of our main projects on agentic systems, at the core of fields including AI, neuroscience, cybernetics and biology.
